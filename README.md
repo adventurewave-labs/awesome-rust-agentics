@@ -52,8 +52,6 @@ A curated list of Rust libraries and tools for agentic AI: agent frameworks, nat
 ## From Adventure Wave Labs
 
 - [loopgen-rs](https://github.com/adventurewave-labs/loopgen-rs) - Agentic loop runner for Claude Code, in Rust.
-- [agentvet](https://github.com/adventurewave-labs/agentvet) - Static security scanner for agentic workspaces (skills, plugins, MCP, hooks).
-- [agent-warden](https://github.com/adventurewave-labs/agent-warden) - eBPF runtime guardrails for coding agents.
 - [cargo-forge](https://github.com/marcuspat/cargo-forge) - Rust project generator / scaffolding CLI.
 - [cargocrypt](https://github.com/marcuspat/cargocrypt) - Cryptography tooling in Rust.
 - [netrain](https://github.com/marcuspat/netrain) - Rust network monitoring with a cinematic terminal UI.
