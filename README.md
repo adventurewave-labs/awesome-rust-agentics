@@ -12,6 +12,7 @@ A curated list of Rust libraries and tools for agentic AI: agent frameworks, nat
 - [Model Context Protocol](#model-context-protocol)
 - [Data, Memory & Vectors](#data-memory--vectors)
 - [From Adventure Wave Labs](#from-adventure-wave-labs)
+- [From Our Founder](#from-our-founder)
 - [Learning](#learning)
 - [Contributing](#contributing)
 
@@ -52,6 +53,11 @@ A curated list of Rust libraries and tools for agentic AI: agent frameworks, nat
 ## From Adventure Wave Labs
 
 - [loopgen-rs](https://github.com/adventurewave-labs/loopgen-rs) - Agentic loop runner for Claude Code, in Rust.
+
+## From Our Founder
+
+Rust crates by [Marcus Patman](https://github.com/marcuspat), AWL's founder — personal projects, not AWL repos.
+
 - [cargo-forge](https://github.com/marcuspat/cargo-forge) - Rust project generator / scaffolding CLI.
 - [cargocrypt](https://github.com/marcuspat/cargocrypt) - Cryptography tooling in Rust.
 - [netrain](https://github.com/marcuspat/netrain) - Rust network monitoring with a cinematic terminal UI.
@@ -68,6 +74,5 @@ PRs welcome — one entry per PR, with a one-line reason it belongs here. Rust-f
 
 ---
 
-Maintained by [Adventure Wave Labs](https://github.com/adventurewave-labs) — the lab behind [turbo-flow](https://github.com/marcuspat/turbo-flow).
-
+Maintained by [Adventure Wave Labs](https://github.com/adventurewave-labs) — founded by the creator of [turbo-flow](https://github.com/marcuspat/turbo-flow).
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
