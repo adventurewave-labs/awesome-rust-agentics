@@ -29,7 +29,7 @@ A curated list of Rust libraries and tools for agentic AI: agent frameworks, nat
 ## LLM Inference & ML
 
 - [candle](https://github.com/huggingface/candle) - Hugging Face's minimalist ML framework for Rust. Fast CPU/GPU inference, runs Transformers in WASM at near-native speed.
-- [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible inference across 40+ model families; OpenAI- and Anthropic-compatible APIs plus a built-in agentic loop (web search, code/shell execution, skills).
+- [m[mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible inference across 40+ model families; OpenAI- and Anthropic-compatible APIs plus a built-in agentic loop (web search, code/shell execution, skills).
 - [burn](https://github.com/tracel-ai/burn) - Next-generation tensor library and deep-learning framework; swap backends (CPU/CUDA/Metal/WGPU) without rewriting.
 - [ort](https://github.com/pykeio/ort) - Hardware-accelerated inference & training for ONNX models in Rust; wrapper over Microsoft's ONNX Runtime.
 - [llama-cpp-rs](https://github.com/utilityai/llama-cpp-rs) - Safe Rust bindings to llama.cpp for local GGUF inference on CPU/GPU.
