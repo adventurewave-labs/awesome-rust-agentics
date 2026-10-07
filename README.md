@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="awesome-rust-agentics — animated banner" width="100%"></p>
+
 # Awesome Rust Agentics (moved)
 
 > [!IMPORTANT]
